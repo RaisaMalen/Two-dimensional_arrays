@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Examples\Example018\bin\Debug\net7.0\Example018.exe
+C:\Users\User\Desktop\Examples\Example018\bin\Debug\net7.0\Example018.deps.json
+C:\Users\User\Desktop\Examples\Example018\bin\Debug\net7.0\Example018.runtimeconfig.json
+C:\Users\User\Desktop\Examples\Example018\bin\Debug\net7.0\Example018.dll
+C:\Users\User\Desktop\Examples\Example018\bin\Debug\net7.0\Example018.pdb
+C:\Users\User\Desktop\Examples\Example018\obj\Debug\net7.0\Example018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examples\Example018\obj\Debug\net7.0\Example018.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examples\Example018\obj\Debug\net7.0\Example018.AssemblyInfo.cs
+C:\Users\User\Desktop\Examples\Example018\obj\Debug\net7.0\Example018.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examples\Example018\obj\Debug\net7.0\Example018.dll
+C:\Users\User\Desktop\Examples\Example018\obj\Debug\net7.0\refint\Example018.dll
+C:\Users\User\Desktop\Examples\Example018\obj\Debug\net7.0\Example018.pdb
+C:\Users\User\Desktop\Examples\Example018\obj\Debug\net7.0\Example018.genruntimeconfig.cache
+C:\Users\User\Desktop\Examples\Example018\obj\Debug\net7.0\ref\Example018.dll
